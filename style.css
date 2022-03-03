@@ -1,0 +1,114 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Arial", sans-serif;
+  line-height: 20px;
+  color: black;
+  font-weight: 400;
+  background-color: #eaeaea;
+}
+ul {
+  list-style: none;
+}
+h1 {
+  width: 255px;
+  margin: 0 auto 8px;
+  font-family: "Georgia";
+  text-align: center;
+  font-weight: normal;
+  font-size: 56px;
+  line-height: 64px;
+}
+
+.container {
+  width: 510px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.site-header {
+  min-width: 550px;
+  height: 186px;
+  margin-bottom: 50px;
+  padding-top: 30px;
+  background: #945d0b no-repeat center url("1111.jpg");
+  background-size: cover;
+  color: #ffffff;
+}
+
+.site-header p {
+  width: 255px;
+  margin: 0 auto 26px;
+  text-align: center;
+  font-size: 16px;
+  line-height: 24px; 
+}
+
+.site-header img {
+  display: block;
+  margin: 0 auto;
+}
+
+.features {
+  width: 510px;
+  height: 450px;
+  margin: 0 auto 30px;
+  padding: 0 20px;
+  border-bottom: solid;
+
+}
+
+.features p {
+  display: inline-block;
+  vertical-align: top;
+  width: 50%;
+  margin: 0 5px;
+  background-repeat: no-repeat;
+  background-position: center top;
+  font-size: 20px;
+}
+
+.dakar {
+  position: absolute;
+  left: 900px;
+  top: 320px;
+  font-size: 14px;
+  font-style: italic;
+  line-height: 16px;
+  color: #707070;
+}
+.E27 {
+  position: absolute;
+  left: 900px;
+  top: 520px;
+  font-style: italic;
+  line-height: 16px;
+  font-size: 14px;
+  color: #707070;
+}
+
+.advantages {
+  width: 510px;
+  margin: 0 auto 40px;
+  padding: 0 20px;
+}
+
+.advantages-list {
+  padding: 0;
+}
+
+.site-footer {
+  min-width: 550px;
+  background-color: #663300;
+  color: #ffffff;
+}
+
+.site-footer .container {
+  text-align: center;
+}
+
+.site-footer p {
+  display: inline-block;
+  vertical-align: middle;
+  padding: 0 20px;
+}
